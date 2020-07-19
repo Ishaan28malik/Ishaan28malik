@@ -1,6 +1,6 @@
 ## This is ChampionRunner. 
 
-<img align="left" src="https://github.com/Ishaan28malik/Ishaan28malik/blob/master/Dev.jpg" width="35%"/>
+<img align="left" src="https://github.com/Ishaan28malik/Ishaan28malik/blob/master/Dev.jpg" width="25%"/>
 
 
 - 💻 Full Stack Dev currently working in [@React](https://reactjs.org/)
