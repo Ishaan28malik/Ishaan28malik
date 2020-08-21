@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/Ishaan28malik/Ishaan28malik/blob/master/404.png" width="45%"/>
 
-- 💻 Full Stack Dev.
+- 💻 Full Stack Dev (in making).
 - :cyclone: Only fact: **Rolling Stones gathers no moss.**
 - ✍🏻 I have a publication [@Simply Dev](https://medium.com/simply-dev)
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects**
